@@ -1,0 +1,3 @@
+10 mV/kg hassasiyete sahip olan ve 500 kg tartma kapasitesine sahip bir loadcell (aðýrlýk sensörü) kullanarak dijital bir tartým cihazý tasarlanmak istenmektedir. Tartým sonucunu PORTB'ye baðlý olan 8 adet LED ile binary sayý formatýnda görüntüleyiniz. 
+
+Not: PROTEUS programýnda loadcell yerine bir ayarlý direnç kullanabilirsiniz. ADC modülünün herhangi bir Analog input kanalýný seçebilirsiniz.  ADC dönüþüm iþlemini kesme kullanarak gerçekleþtiriniz. 
